@@ -1,0 +1,182 @@
+[
+    {
+        "brand": "Hero",
+        "model": "Splendor Plus",
+        "price": 60000,
+        "featured": true,
+        "engine": "97.2cc",
+        "mileage": "80 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Bajaj",
+        "model": "Pulsar 150",
+        "price": 80500,
+        "featured": true,
+        "engine": "149.5cc",
+        "mileage": "60 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "TVS",
+        "model": "Apache RTR 160 4V",
+        "price": 85000,
+        "featured": true,
+        "engine": "159.7cc",
+        "mileage": "55 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Royal Enfield",
+        "model": "Classic 350",
+        "price": 165000,
+        "featured": true,
+        "engine": "346cc",
+        "mileage": "40 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Honda",
+        "model": "CB Shine",
+        "price": 70000,
+        "featured": true,
+        "engine": "124.73cc",
+        "mileage": "65 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Yamaha",
+        "model": "FZ-S",
+        "price": 90000,
+        "featured": true,
+        "engine": "149cc",
+        "mileage": "50 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Suzuki",
+        "model": "Gixxer SF",
+        "price": 110000,
+        "featured": true,
+        "engine": "155cc",
+        "mileage": "48 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "KTM",
+        "model": "Duke 200",
+        "price": 170000,
+        "featured": true,
+        "engine": "199.5cc",
+        "mileage": "35 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Mahindra",
+        "model": "Mojo 300",
+        "price": 185000,
+        "featured": true,
+        "engine": "295cc",
+        "mileage": "32 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Benelli",
+        "model": "Leoncino 250",
+        "price": 240000,
+        "featured": true,
+        "engine": "249cc",
+        "mileage": "30 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Harley-Davidson",
+        "model": "Street 750",
+        "price": 650000,
+        "featured": true,
+        "engine": "749cc",
+        "mileage": "20 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Triumph",
+        "model": "Street Twin",
+        "price": 800000,
+        "featured": true,
+        "engine": "900cc",
+        "mileage": "25 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "BMW",
+        "model": "G 310 GS",
+        "price": 350000,
+        "featured": true,
+        "engine": "313cc",
+        "mileage": "30 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Ducati",
+        "model": "Scrambler Icon",
+        "price": 950000,
+        "featured": true,
+        "engine": "803cc",
+        "mileage": "22 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Kawasaki",
+        "model": "Ninja 300",
+        "price": 380000,
+        "featured": true,
+        "engine": "296cc",
+        "mileage": "28 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Harley-Davidson",
+        "model": "Fat Boy",
+        "price": 1500000,
+        "featured": true,
+        "engine": "1868cc",
+        "mileage": "18 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Indian",
+        "model": "Scout",
+        "price": 1350000,
+        "featured": true,
+        "engine": "1133cc",
+        "mileage": "20 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "MV Agusta",
+        "model": "Brutale 800",
+        "price": 1800000,
+        "featured": true,
+        "engine": "798cc",
+        "mileage": "15 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Aprilia",
+        "model": "Tuono V4",
+        "price": 1750000,
+        "featured": true,
+        "engine": "1077cc",
+        "mileage": "17 kmpl",
+        "year": 2023
+    },
+    {
+        "brand": "Moto Guzzi",
+        "model": "V9 Bobber",
+        "price": 1200000,
+        "featured": true,
+        "engine": "853cc",
+        "mileage": "18 kmpl",
+        "year": 2023
+    }
+]
