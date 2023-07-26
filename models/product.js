@@ -13,10 +13,6 @@ const productSchema = new mongoose.Schema({
         type: Number,
         required: [true, "price must be provided"],
     },
-    featured: {
-        type: Boolean,
-        default: false,
-    },
     engine: {
         type: String,
         required: true,

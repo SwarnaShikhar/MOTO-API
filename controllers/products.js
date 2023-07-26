@@ -1,7 +1,7 @@
 const Product = require("../models/product");
 
 const getAllProducts = async (req, res) => {
-    const { brand, model, price, featured, engine, mileage, year, sort, select } = req.query;
+    const { brand, model, price, engine, mileage, year, sort, select } = req.query;
     const queryObject = {};
 
     if (brand) {
@@ -12,9 +12,6 @@ const getAllProducts = async (req, res) => {
     }
     if (price) {
         queryObject.price = price;
-    }
-    if (featured) {
-        queryObject.featured = featured;
     }
     if (engine) {
         queryObject.engine = engine;
@@ -44,8 +41,8 @@ const getAllProducts = async (req, res) => {
     let skip = (page - 1) * limit;
     apiData = apiData.skip(skip).limit(limit);
 
-    const productData = await apiData;
-    res.status(200).json({ productData });
+    const motoData = await apiData;
+    res.status(200).json({ motoData });
 };
 
 module.exports = { getAllProducts};
